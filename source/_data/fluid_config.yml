@@ -1,0 +1,33 @@
+navbar:
+  blog_title: Ink  Dyeing  #这里是博客名字
+  ground_glass:
+    enable: true
+index:
+  banner_img: /images/uploads/none.png
+ # banner_img_height: 100
+  slogan:
+    text: " 保持热爱，奔赴山海"
+post:
+  banner_img: /images/uploads/none.png
+  #https://imgapi.xl0408.top/index.php
+  banner_img_height: 70
+  default_index_img: /images/uploads/none.png
+archive:
+  banner_img: /images/uploads/none.png
+  banner_img_height: 80
+  subtitle: null
+category:
+  banner_img: /images/uploads/none.png
+  banner_img_height: 80
+  subtitle: null
+tag:
+  banner_img: /images/uploads/none.png
+  banner_img_height: 80
+  subtitle: null
+about:
+  banner_img: /images/uploads/none.png
+  banner_img_height: 80
+  subtitle: null
+  avatar: /images/uploads/yutzi.jpg #头像
+  name: 我的博客
+  intro: My blog
